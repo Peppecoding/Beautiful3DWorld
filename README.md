@@ -54,7 +54,7 @@ This project was developed using **Unity 2022.3.50f1**. It is recommended to use
 
 ## 📺 Preview
 
-[![Beautiful3DWorld Video](https://github.com/Peppecoding/Beautiful3DWorld/blob/master/Movie_001.mp4)](https://github.com/Peppecoding/Beautiful3DWorld/blob/master/Movie_001.mp4)
+[![Beautiful3DWorld Video](https://github.com/Peppecoding/Beautiful3DWorld/blob/master/movie2.mp4)
 
 *Preview of the environment in action.*
 
