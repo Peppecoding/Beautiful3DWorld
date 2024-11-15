@@ -54,7 +54,7 @@ This project was developed using **Unity 2022.3.50f1**. It is recommended to use
 
 ## 📺 Preview
 
-[![Beautiful3DWorld Video](https://www.youtube.com/watch?v=L0mMDwBvIoA.jpg)](https://www.youtube.com/watch?v=L0mMDwBvIoA)
+[![Beautiful3DWorld Video](https://www.youtube.com/watch?v=L0mMDwBvIoA)](https://www.youtube.com/watch?v=L0mMDwBvIoA)
 
 *Preview of the environment in action.*
 
